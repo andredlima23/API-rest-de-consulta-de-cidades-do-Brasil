@@ -1,6 +1,6 @@
-package com.github.andrelugomes.cities.repositories;
+package com.github.andredlima23.cidadesapi.cities.repositories;
 
-import com.github.andrelugomes.cities.entities.City;
+import com.github.andredlima23.cidadesapi.cities.entities.City;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.data.jpa.repository.Query;
 

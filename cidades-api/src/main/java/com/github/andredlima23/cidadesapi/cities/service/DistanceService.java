@@ -1,4 +1,4 @@
-package com.github.andrelugomes.cities.service;
+package com.github.andredlima23.cidadesapi.cities.service;
 
 import static java.lang.Math.atan2;
 import static java.lang.Math.cos;
@@ -7,9 +7,9 @@ import static java.lang.Math.sqrt;
 import static java.lang.Math.toRadians;
 
 
-import com.github.andrelugomes.cities.entities.City;
-import com.github.andrelugomes.cities.repositories.CityRepository;
-import com.github.andrelugomes.utils.StringLocationUtils;
+import com.github.andredlima23.cidadesapi.cities.entities.City;
+import com.github.andredlima23.cidadesapi.cities.repositories.CityRepository;
+import com.github.andredlima23.cidadesapi.utils.StringLocationUtils;
 import java.util.Arrays;
 import java.util.List;
 import org.slf4j.Logger;

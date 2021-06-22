@@ -1,4 +1,4 @@
-package com.github.andrelugomes.cities.entities;
+package com.github.andredlima23.cidadesapi.cities.entities;
 
 import javax.persistence.Column;
 import javax.persistence.Entity;

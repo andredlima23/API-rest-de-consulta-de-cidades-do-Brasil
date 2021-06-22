@@ -1,19 +1,13 @@
-package com.github.andrelugomes.staties.entities;
+package com.github.andredlima23.cidadesapi.staties.entities;
 
-import com.github.andrelugomes.countries.entities.Country;
+import com.github.andredlima23.cidadesapi.countries.entities.Country;
 import com.vladmihalcea.hibernate.type.json.JsonBinaryType;
-import java.util.List;
-import javax.persistence.Basic;
-import javax.persistence.Column;
-import javax.persistence.Entity;
-import javax.persistence.FetchType;
-import javax.persistence.Id;
-import javax.persistence.JoinColumn;
-import javax.persistence.ManyToOne;
-import javax.persistence.Table;
 import org.hibernate.annotations.Type;
 import org.hibernate.annotations.TypeDef;
 import org.hibernate.annotations.TypeDefs;
+
+import javax.persistence.*;
+import java.util.List;
 
 @Entity(name = "State")
 @Table(name = "estado")

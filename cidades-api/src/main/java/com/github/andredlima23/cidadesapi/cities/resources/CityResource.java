@@ -1,7 +1,7 @@
-package com.github.andrelugomes.cities.resources;
+package com.github.andredlima23.cidadesapi.cities.resources;
 
-import com.github.andrelugomes.cities.entities.City;
-import com.github.andrelugomes.cities.repositories.CityRepository;
+import com.github.andredlima23.cidadesapi.cities.entities.City;
+import com.github.andredlima23.cidadesapi.cities.repositories.CityRepository;
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.Pageable;
 import org.springframework.web.bind.annotation.GetMapping;

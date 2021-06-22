@@ -1,7 +1,7 @@
-package com.github.andrelugomes.staties.resources;
+package com.github.andredlima23.cidadesapi.staties.resources;
 
-import com.github.andrelugomes.staties.entities.State;
-import com.github.andrelugomes.staties.repositories.StateRepository;
+import com.github.andredlima23.cidadesapi.staties.entities.State;
+import com.github.andredlima23.cidadesapi.staties.repositories.StateRepository;
 import java.util.List;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
