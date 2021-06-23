@@ -1,4 +1,4 @@
-package com.github.andredlima23.cidadesapi.staties.entities;
+package com.github.andredlima23.cidadesapi.states.entities;
 
 import com.github.andredlima23.cidadesapi.countries.entities.Country;
 import com.vladmihalcea.hibernate.type.json.JsonBinaryType;
